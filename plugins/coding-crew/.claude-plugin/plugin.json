@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coding-crew",
+  "displayName": "Coding Crew",
+  "version": "1.0.0",
+  "description": "Команда кодинг-агентов: план, архитектура, реализация, тесты, секьюрити-ревью, QA и оркестратор над ними.",
+  "author": {
+    "name": "KiboMibo",
+    "url": "https://github.com/KiboMibo"
+  },
+  "license": "MIT",
+  "keywords": [
+    "planning",
+    "architecture",
+    "code-review",
+    "testing",
+    "security",
+    "qa",
+    "orchestration",
+    "agents"
+  ]
+}

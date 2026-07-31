@@ -1,0 +1,26 @@
+{
+  "name": "kibo-skills",
+  "owner": {
+    "name": "KiboMibo",
+    "url": "https://github.com/KiboMibo"
+  },
+  "plugins": [
+    {
+      "name": "coding-crew",
+      "source": "./plugins/coding-crew",
+      "description": "Команда кодинг-агентов: план, архитектура, реализация, тесты, секьюрити-ревью, QA и оркестратор над ними.",
+      "version": "1.0.0",
+      "author": {
+        "name": "KiboMibo"
+      },
+      "keywords": [
+        "planning",
+        "architecture",
+        "testing",
+        "security",
+        "qa",
+        "orchestration"
+      ]
+    }
+  ]
+}
